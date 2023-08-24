@@ -6,3 +6,5 @@ The model is still under training.
 The following are the results from training the model for 18 epoches
 ![input](/Depth_Model/outputs/00014_colors.png)
 ![output](/Depth_Model//outputs/output_18.png)
+
+The object detection is still under development and training. (object detection is implemented using single shot detection because of its high FPS in videos)
